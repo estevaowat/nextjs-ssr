@@ -14,8 +14,8 @@ This project objective is to learn server-side rendering to optimize performance
   git clone <repo_url>
 ```
 
-Development mode - `yarn dev`
-Production mode - `yarn start`
-Build project - `yarn build`
+- Development mode: `yarn dev`
+- Production mode: `yarn start`
+- Build project: `yarn build`
 
 <small> Made for <strong>Rocketseat</strong> bootcamp 🚀 </small>
