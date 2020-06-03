@@ -1,4 +1,4 @@
-# Server-side Rendering com NextJS
+# NextJS Server-side Rendering
 
 ### Project 🗒
 
